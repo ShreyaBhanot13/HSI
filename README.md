@@ -26,9 +26,3 @@ HabiTree encourages students to refill their water bottles regularly. Each bottl
 - JavaScript
 - MicroSoft MakeCode
 
-
-### Basic button and counter (HTML)
-```html
-<button id="sipBtn">Sip 'n Grow</button>
-<p>Fills today: <span id="count">0</span></p>
-<div id="treeStage">🌱</div>
